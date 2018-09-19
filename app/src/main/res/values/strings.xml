@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="history">history</string>
+    <string name="userNameHint">User Key</string>
+    <string name="userMessgae">Message</string>
+    <string name="btnSend">Send</string>
+    <string name="userKey">u3ba37zs37ftt72cab43qwp2xofidn</string>
+    <string name="successMessage">Message sent</string>
+    <string name="failMessage">Fail message</string>
+</resources>
